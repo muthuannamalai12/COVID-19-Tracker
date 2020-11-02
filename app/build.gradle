@@ -1,19 +1,34 @@
-apply plugin: 'com.android.application'
-apply plugin: 'kotlin-android'
-apply plugin: 'kotlin-android-extensions'
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-android-extensions'
+    id 'com.google.gms.google-services'
+    id 'kotlin-kapt'
+    id 'dagger.hilt.android.plugin'
+    id 'androidx.navigation.safeargs.kotlin'
+}
 
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.example.covid_19tracker"
-        minSdkVersion 16
-        targetSdkVersion 29
+        applicationId "com.hari.covid_19app"
+        minSdkVersion build_versions.min_sdk
+        targetSdkVersion build_versions.target_sdk
         versionCode 1
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    signingConfigs {
+        debug {
+            storeFile file('src\\debug\\debug.keystore')
+            keyAlias 'androiddebugkey'
+            storePassword 'android'
+            keyPassword 'android'
+        }
     }
 
     buildTypes {
@@ -22,19 +37,75 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
 
+    dataBinding {
+        enabled = true
+    }
+    kotlinOptions {
+        jvmTarget = "1.8"
+        freeCompilerArgs += [
+                "-Xuse-experimental=kotlinx.coroutines.ExperimentalCoroutinesApi",
+                "-Xuse-experimental=kotlinx.coroutines.ObsoleteCoroutinesApi"]
+    }
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-    implementation 'androidx.appcompat:appcompat:1.1.0'
-    implementation 'androidx.core:core-ktx:1.0.2'
-    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
-    testImplementation 'junit:junit:4.12'
-    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
-    implementation("com.squareup.okhttp3:okhttp:4.5.0")
-    implementation 'com.google.code.gson:gson:2.8.6'
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.5'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+
+    implementation deps.support.app_compat
+    implementation deps.support.core_ktx
+    implementation deps.support.design
+    implementation deps.constraint_layout
+
+    implementation deps.lifecycle.livedata_ktx
+    implementation deps.lifecycle.viewmodel_ktx
+
+    implementation deps.navigation.fragment_ktx
+    implementation deps.navigation.ui_ktx
+
+    implementation deps.groupie.main
+    implementation deps.groupie.viewbinding
+
+
+    implementation deps.firebase.firebase_database_ktx
+
+    //room database
+    kapt deps.room.compiler
+    implementation deps.room.runtime
+    implementation deps.room.ktx
+
+    //retrofit
+    implementation deps.retrofit.runtime
+    implementation deps.retrofit.gson
+    implementation deps.okhttp.okhttp_logging_interceptor
+    implementation deps.okhttp.okhttp
+
+    //dagger
+    implementation deps.dagger.assistedInjectAnnotations
+    kapt deps.dagger.assistedInjectProcessor
+
+    //hilt
+    kapt deps.hilt.compiler
+    implementation deps.hilt.android
+    kapt deps.hilt.androidCompiler
+    implementation deps.hilt.viewmodel
+    implementation deps.hilt.work
+
+    //work manager
+    implementation deps.work.runtime_ktx
+
+    //coil
+    implementation deps.coil.core
+    implementation deps.coil.svg
+
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
+    implementation 'androidx.preference:preference:1.1.1'
 }
+
