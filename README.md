@@ -6,12 +6,7 @@
     <h1 align="center">COVID-19 Tracker</h1>
 </p>
 
-[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Github Followers](https://img.shields.io/github/followers/HariKulhari06?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/HariKulhari06/Covid-19-Tracker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/HariKulhari06/Covid-19-Tracker?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/HariKulhari06/Covid-19-Tracker?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/HariKulhari06/Covid-19-Tracker?style=social)
+
 
 ## ✨ Screenshots
 | Main Screen | Statistics |  Preventions |
@@ -38,7 +33,7 @@ Follow these steps if you want to get a local copy of the project on your machin
 
 #### 1. Clone or fork the repository by running the command below	
 ```
-git https://github.com/HariKulhari06/Covid-19-Tracker
+git https://github.com/thinktocode/Covid-19-Tracker
 ```
 
 #### 2. Import the project in AndroidStudio, and add API Key
@@ -77,7 +72,7 @@ See [LICENSE](./LICENSE) for details.
 ```
 MIT License
 
-Copyright (c) 2020 Hari Choudhary
+Copyright (c) 2020 Namanbir Singh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
