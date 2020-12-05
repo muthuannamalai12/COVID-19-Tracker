@@ -33,7 +33,7 @@ Follow these steps if you want to get a local copy of the project on your machin
 
 #### 1. Clone or fork the repository by running the command below	
 ```
-git https://github.com/thinktocode/Covid-19-Tracker
+git https://github.com/thinktocode/COVID-19-Tracker
 ```
 
 #### 2. Import the project in AndroidStudio, and add API Key
