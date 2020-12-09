@@ -6,6 +6,7 @@ plugins {
     id 'kotlin-kapt'
     id 'dagger.hilt.android.plugin'
     id 'androidx.navigation.safeargs.kotlin'
+    id 'com.google.firebase.appdistribution'
 }
 
 android {
@@ -36,6 +37,15 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
+        debug{
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            firebaseAppDistribution {
+                serviceCredentialsFile="app/src/debug/covid-19-tracker-4bb81-f9d04f4d9492.json"
+                releaseNotesFile="app/src/debug/release-notes.txt"
+                groups="internal"
+            }
+        }
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
@@ -53,6 +63,10 @@ android {
         freeCompilerArgs += [
                 "-Xuse-experimental=kotlinx.coroutines.ExperimentalCoroutinesApi",
                 "-Xuse-experimental=kotlinx.coroutines.ObsoleteCoroutinesApi"]
+    }
+
+    lintOptions {
+        abortOnError false
     }
 }
 
@@ -106,6 +120,6 @@ dependencies {
     implementation deps.coil.svg
 
     implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
-    implementation 'androidx.preference:preference:1.1.1'
+    implementation 'androidx.preference:preference-ktx:1.1.1'
 }
 
