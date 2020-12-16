@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.work:work-runtime-ktx:2.3.4@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/c6e085a860e31d87de2492b6082196a7/work-runtime-ktx-2.3.4/res" />
-      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/6ce5b3b29e4e12a9e3886f48bfe24bee/work-runtime-ktx-2.3.4/res" />
-      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/6ce5b3b29e4e12a9e3886f48bfe24bee/work-runtime-ktx-2.3.4/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/6ce5b3b29e4e12a9e3886f48bfe24bee/work-runtime-ktx-2.3.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/af1c1c9c10979e28e644bc455e5f9f0b/work-runtime-ktx-2.3.4/res" />
+      <root url="jar://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/cd5110cfd0804c6f423b6e6083495a90/work-runtime-ktx-2.3.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/cd5110cfd0804c6f423b6e6083495a90/work-runtime-ktx-2.3.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/cd5110cfd0804c6f423b6e6083495a90/work-runtime-ktx-2.3.4/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

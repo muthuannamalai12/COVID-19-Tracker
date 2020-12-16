@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-runtime:2.3.0-alpha03@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/ba106b43eee9d4e8461567e65e28cad3/lifecycle-runtime-2.3.0-alpha03/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/ba106b43eee9d4e8461567e65e28cad3/lifecycle-runtime-2.3.0-alpha03/res" />
-      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/ba106b43eee9d4e8461567e65e28cad3/lifecycle-runtime-2.3.0-alpha03/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/603ce81aa21ab1bdafb8e6e3100d4045/lifecycle-runtime-2.3.0-alpha03/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/603ce81aa21ab1bdafb8e6e3100d4045/lifecycle-runtime-2.3.0-alpha03/res" />
+      <root url="jar://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/603ce81aa21ab1bdafb8e6e3100d4045/lifecycle-runtime-2.3.0-alpha03/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.hilt:hilt-common:1.0.0-alpha01@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/54b132a4d184a094033bdfe49f27bd85/jetified-hilt-common-1.0.0-alpha01/res" />
-      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/abc9994640e94b04209f2ca9c5e380bc/jetified-hilt-common-1.0.0-alpha01/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/abc9994640e94b04209f2ca9c5e380bc/jetified-hilt-common-1.0.0-alpha01/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/abc9994640e94b04209f2ca9c5e380bc/jetified-hilt-common-1.0.0-alpha01/res" />
+      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/1cf16dca2d27ad09d7221b4900576ddf/jetified-hilt-common-1.0.0-alpha01/res" />
+      <root url="jar://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/7292b9509604b47950344968053d859e/jetified-hilt-common-1.0.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/7292b9509604b47950344968053d859e/jetified-hilt-common-1.0.0-alpha01/res" />
+      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/7292b9509604b47950344968053d859e/jetified-hilt-common-1.0.0-alpha01/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.core:core:1.4.0-alpha01@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/5b9791bd11ad41d46c6ccf6eab86d83b/core-1.4.0-alpha01/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/ae2b4a8712c62c14ae9ae10d6856c811/core-1.4.0-alpha01/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/5b9791bd11ad41d46c6ccf6eab86d83b/core-1.4.0-alpha01/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/5b9791bd11ad41d46c6ccf6eab86d83b/core-1.4.0-alpha01/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/5b9791bd11ad41d46c6ccf6eab86d83b/core-1.4.0-alpha01/res" />
+      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/ae2b4a8712c62c14ae9ae10d6856c811/core-1.4.0-alpha01/res" />
+      <root url="jar://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/ae2b4a8712c62c14ae9ae10d6856c811/core-1.4.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/.gradle/caches/transforms-2/files-2.1/ae2b4a8712c62c14ae9ae10d6856c811/core-1.4.0-alpha01/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
