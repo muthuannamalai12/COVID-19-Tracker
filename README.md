@@ -15,6 +15,9 @@
 | Main Screen Dark | Statistics Dark |  FAQ |
 | ![4](media/screen_dark_1.png?raw=true) | ![5](media/screen_dark_2.png?raw=true) | ![6](media/screen_dark_3.png?raw=true) |
 
+## MAD Score
+![summary](https://user-images.githubusercontent.com/24237865/102366914-84f6b000-3ffc-11eb-8d49-b20694239782.png)
+
 ## 🌟 About
 It simply loads data from API and stores it in persistence storage (i.e. SQLite Database). Data will be always loaded from local database. Remote data (from API) and Local data is always synchronized.
 - This makes it offline capable 😃. 
