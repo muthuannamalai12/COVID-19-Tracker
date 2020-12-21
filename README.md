@@ -6,6 +6,7 @@
     <h1 align="center">COVID-19 Tracker</h1>
 </p>
 
+[![Build Status](https://travis-ci.org/thinktocode/COVID-19-Tracker.png?branch=master)](https://travis-ci.org/thinktocode/COVID-19-Tracker)
 
 
 ## ✨ Screenshots
