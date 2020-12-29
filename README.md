@@ -48,8 +48,8 @@ git https://github.com/thinktocode/COVID-19-Tracker
 3.  Android Studio imports the projects and builds it for you
 
 
-## 🤝 How to Contribute ?
-- If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/thinktocode/COVID-19-Tracker/blob/main/CONTRIBUTING.md) 💥
+## 💥 How to Contribute ?
+- If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/thinktocode/COVID-19-Tracker/blob/main/CONTRIBUTING.md)🤝
 
 
 ## 📃 Libraries used
