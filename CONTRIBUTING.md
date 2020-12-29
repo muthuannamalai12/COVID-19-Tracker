@@ -85,7 +85,7 @@ git push
 - Use the body to explain what, why, vs, and how
 - Reference issues and pull requests liberally after the first line
 
-For more detailed reference to the above points, refer here: [https://chris.beams.io/posts/git-commit/].
+For more detailed reference to the above points, refer here: https://chris.beams.io/posts/git-commit.
 
 ## 💥 Issues:
 For major changes, you are welcomed to open an issue  about what you would like to contribute. Enhancements will be appreciated.
