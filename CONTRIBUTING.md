@@ -7,7 +7,7 @@
 
 Refer to the following articles on the basics of Git and Github and can also contact the Project Mentors, in case you are stuck:
 
-- [Watch this video to get started, if you have no clue about open source](https://youtu.be/SL5KKdmvJ1U)
+
 - [Getting started with Git and GitHub](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github)
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
