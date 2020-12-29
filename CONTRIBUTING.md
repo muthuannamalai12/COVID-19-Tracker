@@ -1,7 +1,7 @@
-## 🤝 
 
 
-## 🎉***First time contributing? We will help you out.*** 👍
+
+## 🤝***First time contributing? We will help you out.*** 👍
 
 ![GitHub custom open for collaboration](https://img.shields.io/badge/Open%20For-Collaboration-brightgreen?style=for-the-badge)
 
