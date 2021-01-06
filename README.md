@@ -66,7 +66,7 @@ git https://github.com/thinktocode/COVID-19-Tracker
 - [Dagger 2](https://dagger.dev/) - Dependency Injection Framework
 - [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 - [Coil-kt](https://coil-kt.github.io/coil/) - An image loading library for Android backed by Kotlin Coroutines.
-- [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
+- [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
 
 ## Our Contributors
 
