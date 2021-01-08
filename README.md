@@ -18,7 +18,7 @@
 [![Contributors](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker)
 [![Pull Request](https://img.shields.io/github/issues-pr/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/thinktocode/COVID-19-Tracker/pulls)
 [![Top Language](https://img.shields.io/github/languages/top/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/thinktocode/COVID-19-Tracker)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?style=for-the-badge)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=200)](https://github.com/thinktocode/COVID-19-Tracker/)
 <br>
 
 
