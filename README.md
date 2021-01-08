@@ -9,13 +9,12 @@
 
 <p align="center">
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 [![API](https://img.shields.io/badge/API-21%2B-yellow?style=for-the-badge)](https://android-arsenal.com/api?level=21)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)](https://github.com/thinktocode/COVID-19-Tracker/issues)
 [![License](https://img.shields.io/github/license/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/thinktocode/COVID-19-Tracker/blob/main/LICENSE)
 [![WORKFLOWS](https://img.shields.io/badge/Android%20CI-passing-red?style=for-the-badge)](https://github.com/thinktocode/COVID-19-Tracker/actions)
 [![Stargazers](https://img.shields.io/github/stars/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com//thinktocode/COVID-19-Tracker/stargazers)
-&nbsp;&nbsp;
 [![Issues](https://img.shields.io/github/issues/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/thinktocode/COVID-19-Tracker/issues)
 [![Contributors](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker)
 [![Top Language](https://img.shields.io/github/languages/top/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/thinktocode/COVID-19-Tracker)
