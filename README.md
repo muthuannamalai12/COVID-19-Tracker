@@ -11,8 +11,13 @@
 [![API](https://img.shields.io/badge/API-21%2B-yellow?style=for-the-badge)](https://android-arsenal.com/api?level=21)
 [![License](https://img.shields.io/github/license/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/thinktocode//COVID-19-Tracker/issues)
 [![License](https://img.shields.io/badge/Android%20CI-passing-brightgreen?style=for-the-badge)](https://github.com/thinktocode/COVID-19-Tracker/actions)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/akrish4/Learn-By-Write/issues)
+[![Forks](https://img.shields.io/github/forks/thinktocode//COVID-19-Tracker.svg?logo=github)](https://github.com/akrish4/Learn-By-Write/network/members)
+[![Stargazers](https://img.shields.io/github/stars//thinktocode//COVID-19-Tracker.svg?logo=github)](https://github.com/akrish4/Learn-By-Write/stargazers)
+[![Issues](https://img.shields.io/github/issues//thinktocode//COVID-19-Tracker.svg?logo=github)](https://github.com/akrish4/Learn-By-Write/issues)
+[![Contributors](https://img.shields.io/github/contributors//thinktocode//COVID-19-Tracker.svg?logo=github)](https://img.shields.io/github/contributors/akrish4/Learn-By-Write)
 
-
+<br>
 
 ## ✨ Screenshots
 | Main Screen | Statistics |  Preventions |
