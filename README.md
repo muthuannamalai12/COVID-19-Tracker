@@ -8,7 +8,7 @@
 
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![API](https://img.shields.io/github/API/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://android-arsenal.com/api?level=21)
+[![API](https://img.shields.io/github/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://android-arsenal.com/api?level=21)
 [![License](https://img.shields.io/github/license/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/thinktocode//COVID-19-Tracker/issues)
  <a href="https://github.com/thinktocode/COVID-19-Tracker/actions"><img alt="Build Status" src="https://github.com/thinktocode/COVID-19-Tracker/workflows/Android%20CI/badge.svg"/></a> 
 
