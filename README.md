@@ -11,16 +11,16 @@
 [![API](https://img.shields.io/badge/API-21%2B-yellow?style=for-the-badge)](https://android-arsenal.com/api?level=21)
 [![License](https://img.shields.io/github/license/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/thinktocode//COVID-19-Tracker/license)
 [![WORKFLOWS](https://img.shields.io/badge/Android%20CI-passing-brightgreen?style=for-the-badge)](https://github.com/thinktocode/COVID-19-Tracker/actions)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)](https://github.com//thinktocode/COVID-19-Trackerissues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)](https://github.com/thinktocode/COVID-19-Trackerissues)
 [![Forks](https://img.shields.io/github/forks/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com//thinktocode/COVID-19-Tracker/network/members)
 [![Stargazers](https://img.shields.io/github/stars/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com//thinktocode/COVID-19-Tracker/stargazers)
-[![Issues](https://img.shields.io/github/issues/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com//thinktocode/COVID-19-Tracker/issues)
-[![Contributors](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://img.shields.io/github/contributors//thinktocode/COVID-19-Tracker)
+[![Issues](https://img.shields.io/github/issues/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/thinktocode/COVID-19-Tracker/issues)
+[![Contributors](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker)
 [![Pull Request](https://img.shields.io/github/issues-pr/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com//thinktocode/COVID-19-Tracker/issues)
 <br>
 
 
-https://img.shields.io/github/issues-pr/thinktocode/COVID-19-Tracker?style=for-the-badge
+
 
 
 
