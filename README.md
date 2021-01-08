@@ -16,8 +16,17 @@
 [![Stargazers](https://img.shields.io/github/stars/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/akrish4/Learn-By-Write/stargazers)
 [![Issues](https://img.shields.io/github/issues/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/akrish4/Learn-By-Write/issues)
 [![Contributors](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://img.shields.io/github/contributors/akrish4/Learn-By-Write)
-
+[![Pull Request](https://img.shields.io/github/issues-pr/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/akrish4/Learn-By-Write/issues)
 <br>
+
+
+https://img.shields.io/github/issues-pr/thinktocode/COVID-19-Tracker?style=for-the-badge
+
+
+
+
+
+
 
 ## ✨ Screenshots
 | Main Screen | Statistics |  Preventions |
