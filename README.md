@@ -8,9 +8,9 @@
 
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![API](https://img.shields.io/badge/API-21%2B-yellow?style=for-the-badge)](https://android-arsenal.com/api?level=21)
+[![API](https://img.shields.io/badge/API-21%2B-yellowc)](https://android-arsenal.com/api?level=21)
 [![License](https://img.shields.io/github/license/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/thinktocode//COVID-19-Tracker/issues)
- <a href="https://github.com/thinktocode/COVID-19-Tracker/actions"><img alt="Build Status" src="https://github.com/thinktocode/COVID-19-Tracker/workflows/Android%20CI/badge.svg"/></a> 
+ <a href="https://github.com/thinktocode/COVID-19-Tracker/actions"><img alt="Build Status" src="https://github.com/thinktocode/COVID-19-Tracker/workflows/Android%20CI?style=for-the-badge/badge.svg"/></a> 
 
 ## ✨ Screenshots
 | Main Screen | Statistics |  Preventions |
