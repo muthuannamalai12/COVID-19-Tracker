@@ -6,15 +6,11 @@
     <h1 align="center">COVID-19 Tracker</h1>
 </p>
 
-<p align="center">
- 
-  <a href="https://github.com/thinktocode/COVID-19-Tracker/actions"><img alt="Build Status" src="https://github.com/thinktocode/COVID-19-Tracker/workflows/Android%20CI/badge.svg"/></a> 
 
-[![API](https://img.shields.io/github/license/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://android-arsenal.com/api?level=21)
-
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![API](https://img.shields.io/github/API/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://android-arsenal.com/api?level=21)
 [![License](https://img.shields.io/github/license/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/thinktocode//COVID-19-Tracker/issues)
-
-</p>
+ <a href="https://github.com/thinktocode/COVID-19-Tracker/actions"><img alt="Build Status" src="https://github.com/thinktocode/COVID-19-Tracker/workflows/Android%20CI/badge.svg"/></a> 
 
 ## ✨ Screenshots
 | Main Screen | Statistics |  Preventions |
