@@ -7,7 +7,7 @@
 </p>
 
 
-<p align="center">
+
     
  &nbsp;&nbsp;&nbsp;&nbsp;    
 [![API](https://img.shields.io/badge/API-21%2B-yellow?style=for-the-badge)](https://android-arsenal.com/api?level=21)
@@ -16,7 +16,7 @@
 [![Issues](https://img.shields.io/github/issues/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com/thinktocode/COVID-19-Tracker/issues)
 [![Contributors](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker)
 [![Forks](https://img.shields.io/github/forks/thinktocode/COVID-19-Tracker?style=for-the-badge)](https://github.com//thinktocode/COVID-19-Tracker/network/members)
-</p>
+
 
 
 
