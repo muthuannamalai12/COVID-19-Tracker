@@ -34,13 +34,12 @@ class ItemStatisticsCard constructor(
         entries.add(
             0,
             PieEntry(state.active?.toFloat() ?: 0.0f, chart.context.getString(R.string.active))
+
+
         )
         entries.add(
             1,
-            PieEntry(
-                state.recovered?.toFloat() ?: 0.0f,
-                chart.context.getString(R.string.recovered)
-            )
+            PieEntry(state.recovered?.toFloat() ?: 0.0f, chart.context.getString(R.string.recovered))
         )
         entries.add(
             2,
@@ -55,6 +54,13 @@ class ItemStatisticsCard constructor(
         val dataSet = PieDataSet(entries, "Covid-19 Status")
 
         dataSet.colors = colors
+
+        dataSet.yValuePosition = PieDataSet.ValuePosition.OUTSIDE_SLICE
+        dataSet.valueLinePart1Length = 0.83f
+        dataSet.valueLinePart2Length = 0.4f
+        dataSet.xValuePosition = PieDataSet.ValuePosition.OUTSIDE_SLICE
+//        dataSet.sliceSpace =5f
+
 
         val pieData = PieData(dataSet)
         pieData.setValueTextSize(12f)
@@ -73,7 +79,7 @@ class ItemStatisticsCard constructor(
     private fun initChart(chart: PieChart) {
 
         chart.setUsePercentValues(false)
-
+        chart.setEntryLabelColor(Color.BLACK);
         chart.animateY(1400, Easing.EaseInOutQuad)
 
         chart.holeRadius = 58f
@@ -84,12 +90,12 @@ class ItemStatisticsCard constructor(
         chart.isHighlightPerTapEnabled = true
         chart.setHoleColor(Color.TRANSPARENT)
 
-
-        chart.rotationAngle = 0f
+        chart.rotationAngle = 92f
 
         chart.description.isEnabled = false
 
         val l = chart.legend
+
         l.verticalAlignment = Legend.LegendVerticalAlignment.CENTER
         l.horizontalAlignment = Legend.LegendHorizontalAlignment.RIGHT
         l.orientation = Legend.LegendOrientation.VERTICAL
@@ -99,6 +105,7 @@ class ItemStatisticsCard constructor(
         l.setDrawInside(false)
         l.xEntrySpace = 7f
         l.yEntrySpace = 20f
+
 
     }
 
