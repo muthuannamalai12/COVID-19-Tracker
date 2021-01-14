@@ -126,3 +126,77 @@ SOFTWARE.
 Winter of Code is an open-source program envisioned by DevScript that helps understand the paradigm of Open Source contribution. It aims to bring students into the world of open source development and see the power of unified problem solving in real time.
 
 <img src="https://devscript.tech/woc/img/WOC-logo.png" width="35%">
+
+## Contributors 🌟
+
+Thanks goes to these wonderful people ✨✨:
+<table>
+   <!--   ROW 1 -->
+   <tr>  
+    <td align="center">
+        <a href="https://github.com/thinktocode">
+          <img src="https://avatars3.githubusercontent.com/u/73512577?v=4" width="100px" alt=""/><br />
+          <sub><b>thinktocode</b></sub>
+        </a><br />
+        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=thinktocode">
+            👑 Author
+        </a>
+      </td>
+    <td align="center">
+        <a href="https://github.com/akrish4">
+          <img src="https://avatars0.githubusercontent.com/u/61831021?v=4" width="100px" alt=""/><br />
+          <sub><b>akrish4</b></sub>
+        </a><br />
+        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=akrish4">
+            💻
+        </a>
+      </td>
+    <td align="center">
+        <a href="https://github.com/namanbirsingh">
+          <img src="https://avatars3.githubusercontent.com/u/77064124?v=4" width="100px" alt=""/><br />
+          <sub><b>namanbirsingh</b></sub>
+        </a><br />
+        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=namanbirsingh">
+            💻
+        </a>
+      </td>
+    <td align="center">
+        <a href="https://github.com/tharunc">
+          <img src="https://avatars3.githubusercontent.com/u/68283386?v=4" width="100px" alt=""/><br />
+          <sub><b>tharunc</b></sub>
+        </a><br />
+        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=tharunc">
+            💻
+        </a>
+      </td>
+    <td align="center">
+        <a href="https://github.com/Sloth-Panda">
+          <img src="https://avatars2.githubusercontent.com/u/70213384?v=4" width="100px" alt=""/><br />
+          <sub><b>Sloth-Panda</b></sub>
+        </a><br />
+        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Sloth-Panda">
+            💻
+        </a>
+      </td>
+    <td align="center">
+        <a href="https://github.com/muthuannamalai12">
+          <img src="https://avatars2.githubusercontent.com/u/64524822?v=4" width="100px" alt=""/><br />
+          <sub><b>muthuannamalai12</b></sub>
+        </a><br />
+        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=muthuannamalai12">
+            💻
+        </a>
+      </td>
+    </tr>
+    <tr>
+    <td align="center">
+        <a href="https://github.com/sharmaumang001">
+          <img src="https://avatars0.githubusercontent.com/u/57462562?v=4" width="100px" alt=""/><br />
+          <sub><b>sharmaumang001</b></sub>
+        </a><br />
+        <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=sharmaumang001">
+            💻
+        </a>
+      </td>
+    </tr>
+</table>
